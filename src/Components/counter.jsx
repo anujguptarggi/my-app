@@ -17,7 +17,7 @@ class Counter extends Component {
           onClick={this.handelIncrement}
           className="btn btn-secondary btn-sm"
         >
-          Increment
+          Increment tab
         </button>
         <button
           className="btn btn-danger btn-sm m-2"
